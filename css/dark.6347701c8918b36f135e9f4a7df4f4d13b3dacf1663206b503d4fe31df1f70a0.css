@@ -1,0 +1,169 @@
+body {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+::-moz-selection {
+  background: blue;
+  color: #ffffff;
+  text-shadow: none;
+}
+
+::selection {
+  background: rgb(255, 159, 191);
+  color: #fff;
+  text-shadow: none;
+}
+
+hr {
+  border-top: 1.85px dashed rgb(255, 60, 125);
+}
+
+code {
+  background-color: rgb(58, 73, 139);
+  color: rgb(192, 45, 45);
+  text-decoration: bold;
+  padding: 0.1em 0.2em;
+}
+
+pre {
+  background-color: #b0ca2d;
+  line-height: 1.4;
+  overflow-x: auto;
+  padding: 1em;
+}
+
+blockquote {
+  font-size: 1em;
+  text-align: justify;
+  font-family: "Fira Sans";
+  background: #ffffff;
+  border-left: 3px solid rgb(255, 60, 125);
+  margin: 1.5em 0px;
+  padding: 0em 10px;
+}
+
+h1 {
+  color:  rgb(255, 60, 125);
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h2,
+h3
+ {
+  color: rgb(255, 60, 125);
+  margin-top: 0rem;
+}
+
+h4
+ {
+  color: rgb(255, 60, 125);
+  margin-top: 2.5rem;
+}
+
+h5 {
+  color: #000000;
+  margin-top: 2.0rem;
+  margin-bottom: 0rem;
+}
+
+h6 {
+  color: #000000;
+}
+
+a {
+  color:  rgb(255, 60, 125);
+  text-decoration: none;
+}
+
+a:hover {
+    background-color: var(--hovercolor);
+    color: #000000;
+}
+
+.site-description a {
+  color: #ddd;
+}
+.site-description a:hover {
+  color: black;
+}
+
+.tags a {
+  border-bottom: 3px solid var(--darkMaincolor);
+}
+.tags a:hover {
+  background-color: var(--darkMaincolor);color: black;
+}
+
+.site-title a {
+  font-family: 'Fira Sans';
+  color: rgb(61, 167, 96);
+  line-height: .5;
+  color: white;
+  text-decoration: none !important;
+}
+
+.header nav,
+.footer {
+  border-color: #333;
+}
+
+.highlight {
+  background-color: #333;
+}
+
+.soc:hover {
+  color: #000000;
+}
+
+.draft-label {
+  color: var(--darkMaincolor);
+  background-color: blue;
+}
+.highlight pre code[class=language-javaScript]::before,
+.highlight pre code[class="language-js"]::before {
+  content: "js";
+  background: #f7df1e;
+  color: rgb(196, 65, 65);
+}
+.highlight pre code[class*='language-yml']::before,
+.highlight pre code[class*='language-yaml']::before {
+  content: 'yaml';
+  background: #f71e6a;
+  color: white;
+}
+.highlight pre code[class*='language-shell']::before,
+.highlight pre code[class*='language-bash']::before,
+.highlight pre code[class*='language-sh']::before {
+  content: 'shell';
+  background: rgb(128, 0, 117);
+  color:white
+}
+.highlight pre code[class*='language-json']::before{
+  content: 'json';
+  background: dodgerblue;
+   color: #b44242 
+}
+.highlight pre code[class*='language-python']::before,
+.highlight pre code[class*='language-py']::before {
+  content: 'py';
+  background: blue;
+  color: yellow ;
+}
+.highlight pre code[class*='language-css']::before{
+  content: 'css';
+  background: cyan;
+  color: rgb(216, 61, 61) ;
+}
+.highlight pre code[class*='language-go']::before{
+  content: 'Go';
+  background: cyan;
+  color: royalblue ;
+}
+.highlight pre code[class*='language-md']::before,
+.highlight pre code[class*='language-md']::before{
+  content: 'Markdown';
+  background: royalblue;
+  color: whitesmoke ;
+}
