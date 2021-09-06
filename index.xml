@@ -7,16 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://g-pacheco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bio/</title>
-      <link>https://g-pacheco.github.io/bio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-pacheco.github.io/bio/</guid>
-      <description> I am an Evolutionary Biologist currently doing a post-doc at the Technical University of Denmark being advised by Dr. Jakob Hemmer Hansen &amp;amp; Dr. Dorte Bekkevold. We are part of the Population Genetics section located at the small town of Silkeborg in Jutland. This section is part of DTU Aqua, a well-known institute in the field of aquatic resources.
- </description>
-    </item>
-    
-    <item>
       <title>Bird against the blue sky/</title>
       <link>https://g-pacheco.github.io/gallery/bird-down-face/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -59,6 +49,15 @@
       
       <guid>https://g-pacheco.github.io/gallery/butterfly/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>Contact/</title>
+      <link>https://g-pacheco.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://g-pacheco.github.io/contact/</guid>
+      <description>George Pacheco, PhD DTU Aqua / Vejlsøvej 39, 8600 Silkeborg • Denmark The best way of getting a hold of me is through my institutional email: ganpa@aqua.dtu.dk. Please write to me through it and I will get back to you as soon as possible. </description>
     </item>
     
     <item>
@@ -138,6 +137,15 @@ Bergeron et al. GigaScience.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://g-pacheco.github.io/gallery/solo-monkey/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Thank you/</title>
+      <link>https://g-pacheco.github.io/thankyou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://g-pacheco.github.io/thankyou/</guid>
       <description> </description>
     </item>
     

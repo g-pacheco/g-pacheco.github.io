@@ -4,8 +4,6 @@
   <url>
     <loc>https://g-pacheco.github.io/</loc>
   </url><url>
-    <loc>https://g-pacheco.github.io/bio/</loc>
-  </url><url>
     <loc>https://g-pacheco.github.io/gallery/bird-down-face/</loc>
   </url><url>
     <loc>https://g-pacheco.github.io/gallery/bird-back-face/</loc>
@@ -17,6 +15,8 @@
     <loc>https://g-pacheco.github.io/gallery/butterfly/</loc>
   </url><url>
     <loc>https://g-pacheco.github.io/categories/</loc>
+  </url><url>
+    <loc>https://g-pacheco.github.io/contact/</loc>
   </url><url>
     <loc>https://g-pacheco.github.io/cv/</loc>
   </url><url>
@@ -37,5 +37,7 @@
     <loc>https://g-pacheco.github.io/gallery/solo-monkey/</loc>
   </url><url>
     <loc>https://g-pacheco.github.io/tags/</loc>
+  </url><url>
+    <loc>https://g-pacheco.github.io/thankyou/</loc>
   </url>
 </urlset>
