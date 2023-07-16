@@ -1,10 +1,10 @@
-/* fira-sans-regular - latin */
+/* ProximaNova */
 @font-face {
-  font-family: 'Fira Sans';
+  font-family: 'ProximaNova';
   font-style: normal;
   font-weight: 400;
   src: url('../fonts/fira-sans-v10-latin-regular.eot'); /* IE9 Compat Modes */
-  src: local('Fira Sans Regular'), local('FiraSans-Regular'),
+  src: local('ProximaNova'), local('ProximaNova'),
        url('../fonts/fira-sans-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('../fonts/fira-sans-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
        url('../fonts/fira-sans-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
@@ -13,7 +13,7 @@
 }
 /* roboto-mono-regular - latin */
 @font-face {  
-  font-family: 'Roboto Mono';
+  font-family: 'ProximaNova';
   font-style: normal;
   font-weight: 400;  
   src: url('../fonts/roboto-mono-v12-latin-regular.eot'); /* IE9 Compat Modes */
